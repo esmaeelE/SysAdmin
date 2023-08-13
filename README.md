@@ -1,2 +1,2 @@
 # SysAdmin
-System Adminsitration Dump Material
+System administration Dump Material
