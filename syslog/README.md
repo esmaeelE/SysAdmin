@@ -12,4 +12,4 @@
 
 * Send message
 
-    echo "myapp.sh: This is a test message" | nc -w1 -u 127.0.0.1 10514
+‍‍```echo "myapp.sh: This is a test message" | nc -w1 -u 127.0.0.1 10514```
