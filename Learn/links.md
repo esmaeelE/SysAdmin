@@ -7,7 +7,7 @@
 
 * [baeldung](https://www.baeldung.com/)
 
-* [Hacker News] (https://news.ycombinator.com/news)
+* [Hacker News](https://news.ycombinator.com/news)
   
 * https://www.digiboy.ir/
 
