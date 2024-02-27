@@ -4,6 +4,7 @@
 
 ```
 hosname
+echo $HOSTNAME
 ```
 
 ## Change hostname to FTP
