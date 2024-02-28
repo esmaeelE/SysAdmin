@@ -15,6 +15,8 @@
 
 * https://www.rootusers.com/
 
+* https://www.server-world.info
+* 
 ## Books
 
 * UNIX and Linux System Administration Handbook, 5th Edition
