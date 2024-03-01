@@ -3,6 +3,8 @@
 
 ## Learning website
 
+* [Linux Documentation](https://linux.die.net/)
+
 * [Redhat sysadmin blog](https://www.redhat.com/sysadmin/)
 
 * [baeldung](https://www.baeldung.com/)
