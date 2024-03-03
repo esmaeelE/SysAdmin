@@ -25,6 +25,10 @@ Match group sftp_users
         ForceCommand internal-sftp
 ```
 
+Also Match section support User attribute.
+We can have multiple users, each one can connect and use specific directory in our ftp server.
+
+
 ## Restart server to take effect 
 
 ```
