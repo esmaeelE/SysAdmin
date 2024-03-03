@@ -9,3 +9,11 @@ iface enp0s5  inet static
  dns-domain sweet.home
  dns-nameservers 192.168.2.254 1.1.1.1 8.8.8.8
 ```
+
+### Public IP
+
+```
+$ curl ifconfig.co/json
+```
+
+
