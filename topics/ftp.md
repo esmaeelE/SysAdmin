@@ -47,7 +47,13 @@ usermod -G sftp_users uat
 * filezila GUI application
 * gftp GUI application
 
-## using facl to grant access to specific user without changing ownership of files
+# Change ownership
+
+```
+chown -R uat /data
+```
+
+## Its better using facl to grant access to specific user without changing ownership of files
 
 ### install package
 
