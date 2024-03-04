@@ -45,3 +45,20 @@ Now we can download them from Local mahine
 scp manage_node:~/mount_point/*.tar.gz .
 ```
 
+---
+
+### rsync 
+
+To using **rsync** both sides must have rsync program.
+So run this command to ensure it installed.
+
+```
+$ sudo apt install rsync
+```
+
+Now we can run rsync instead of scp
+
+```
+$ rsync -LvzP manage_node:~/mount_point/lpic*.gz .
+```
+
