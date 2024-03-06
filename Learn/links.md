@@ -24,3 +24,8 @@
 * UNIX and Linux System Administration Handbook, 5th Edition
 
 * 
+
+## Mis.
+
+* [Terminals, shells and ssh](https://j11g.com/2023/01/14/i-dont-understand-terminals-shells-and-ssh/)
+* 
