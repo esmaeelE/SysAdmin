@@ -5,6 +5,12 @@ we can combine many files under the name of a new set.
 
 Also tar can be used with compress tools like zip and bzip to reduce output file size.
 
+## Tar, create archive without directory structure
+
+```
+tar -cjvf files.tar.bz2 -C directory/contents/to/be/compressed .
+```
+
 ## Untar, not preserve original directory structure
 
 ### show contents without extract
@@ -27,3 +33,8 @@ mkdir lpic1_eng_new
 tar -xvf lpic1_eng_new.tar.gz   --strip-components=1 -C lpic1_eng_new/
 ```
 
+
+
+## Resources and credits
+
+* https://stackoverflow.com/a/16820591/7508077
