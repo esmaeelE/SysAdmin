@@ -31,6 +31,11 @@ iface eth1 inet6 static
     netmask 64
 ```
 
-
+### ping and ssh
 
 ```
+ping6  hostIP
+ssh -6 user@hostIP
+```
+
+
