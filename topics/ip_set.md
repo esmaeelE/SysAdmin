@@ -39,3 +39,13 @@ ssh -6 user@hostIP
 ```
 
 
+### DIG
+
+```
+$ dig A google.com AAAA google.com +short 
+;; Warning, extra type option
+2a00:1450:400e:802::200e
+142.250.179.206
+```
+
+
