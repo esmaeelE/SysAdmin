@@ -62,3 +62,10 @@ Now we can run rsync instead of scp
 $ rsync -LvzP manage_node:~/mount_point/lpic*.gz .
 ```
 
+SpeedUP
+
+https://stackoverflow.com/questions/24058544/speed-up-rsync-with-simultaneous-concurrent-file-transfers/72480364#72480364
+
+
+Python simple ftp server provides resume download but http server not.
+
