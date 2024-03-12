@@ -16,3 +16,41 @@
 # Check is it OK
 ```$ sudo vgdisplay```
 
+## Task
+
+```
+lsblk -f 
+
+# Add new storage
+
+# check it
+fdisk -l
+
+# partiton it to create sdb1
+fdisk /dev/sdb 
+
+lsblk -f 
+pvdisplay 
+
+# create new phyical volume on sdb1
+pvcreate /dev/sdb1 
+
+pvdisplay 
+
+# extend existing volume group with new created physical volume sdb1
+vgextend centos /dev/sdb1
+
+vgdisplay 
+lvdisplay 
+
+# extend existing logical volume with newly added size
+lvextend -r -l +100%FREE /dev/centos/home
+
+lsblk -f 
+reboot 
+
+
+lsblk -f 
+df -hl
+
+```
