@@ -14,6 +14,8 @@ iface enp0s5  inet static
 
 ```
 $ curl ifconfig.co/json
+# For ipv6
+$ curl ident.me
 ```
 
 
