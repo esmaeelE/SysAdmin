@@ -1,6 +1,8 @@
 # Youtube channels
 
 * [Vim](https://www.youtube.com/@ThePrimeagen/featured)
+* [NetworkChuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
+* [rwxrob](https://www.youtube.com/channel/UCs2Kaw3Soa63cJq3H0VA7og)
 
 
 ## Computer Science
