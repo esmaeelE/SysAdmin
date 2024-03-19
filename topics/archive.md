@@ -7,6 +7,7 @@ Also tar can be used with compress tools like zip and bzip to reduce output file
 
 ## Tar, create archive without directory structure
 
+Consider extra dot at the end of command
 ```
 tar -cjvf files.tar.bz2 -C directory/contents/to/be/compressed .
 ```
@@ -27,6 +28,7 @@ learn/Why vi ⧸ vim is important and how to use it to edit files [7S5RaX1OsTE].
 #### We have a directory structure here in original tar file.
 
 Runing below command with gnu tar, remove original directory strucrure and extract all contents in the root of **lpic1_eng_new**
+Using `--strip-components=1` without extra dot at the end.
 
 ```
 mkdir lpic1_eng_new
