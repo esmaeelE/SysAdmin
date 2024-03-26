@@ -91,3 +91,7 @@ sock.sendto(MESSAGE, (UDP_IP, UDP_PORT))
 
 ```
 
+
+* [Ubuntu netplan](https://ostechnix.com/configure-static-ip-address-ubuntu/)
+
+
