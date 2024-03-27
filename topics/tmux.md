@@ -21,7 +21,26 @@ Prefix: kill-pane or Prefix x – kill the active pane
 Prefix , : Rename window
 ```
 
+## detach
+```
+Prefix d 
+```
 
 
+## create new session
+```
+tmux new -s mysession
+```
+## attach to
+```
+tmux ls
+tmux a
+tmux a -t session_name/number
+```
+
+## fun
+```
+Prefix t : time
+```
 
 
