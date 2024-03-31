@@ -29,6 +29,15 @@ Match group sftp_users
 Also Match section support User attribute.
 We can have multiple users, each one can connect and use specific directory in our ftp server.
 
+Or we can grant specific user to use sftp server
+```
+Match user ftpuser
+        X11Forwarding no
+        AllowTcpForwarding no
+        ChrootDirectory /home/user/shared_directory
+        PermitTTY no # dont access to this user open ssh session
+        ForceCommand internal-sftp
+```
 
 ## Restart server to take effect 
 
