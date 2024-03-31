@@ -22,6 +22,7 @@ Match group sftp_users
         X11Forwarding no
         AllowTcpForwarding no
         ChrootDirectory /home/user/shared_directory
+        PermitTTY no # dont access to this user open ssh session
         ForceCommand internal-sftp
 ```
 
