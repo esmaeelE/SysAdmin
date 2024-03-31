@@ -39,7 +39,7 @@ Match user ftpuser
         ForceCommand internal-sftp
 ```
 
-## Restart server to take effect 
+## Restart openssh to take effect 
 
 ```
 systemctl restart sshd
