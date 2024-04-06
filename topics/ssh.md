@@ -23,3 +23,24 @@ The destination server match our public key with private and give access.
 copy `id_ed25519.pub` and place to github ssh-keys section.
 then run `ssh -T git@github.com` to confirm access.
 
+
+# Fail2ban
+Prevent brute force ssh password logins.
+
+## debian 12
+```
+$ sudo apt install fail2ban
+$ sudo systemctl restart fail2ban.server
+``
+ /etc/fail2ban/jail.local
+```
+[sshd]
+backend=systemd
+enabled = true
+port = ssh
+filter = sshd
+logpath = /var/log/auth.log
+maxretry = 3
+```
+
+
