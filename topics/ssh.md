@@ -31,7 +31,9 @@ Prevent brute force ssh password logins.
 ```
 $ sudo apt install fail2ban
 $ sudo systemctl restart fail2ban.server
-``
+```
+ 
+ 
  /etc/fail2ban/jail.local
 ```
 [sshd]
