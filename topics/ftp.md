@@ -90,3 +90,13 @@ https://askubuntu.com/a/809562/678872
 https://aventistech.com/kb/configure-sftp-server-in-debian/
 
 
+## Hints
+In above config under the sshd file if ChrooDirectory is a /root path it must be owned by root from the begining of path.
+Unfortunately somebody change it to another user so I have hard time to get it to work.
+
+For example 
+
+```
+        ChrootDirectory /root/backend/somedir/
+```
+
