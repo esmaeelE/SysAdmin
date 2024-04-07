@@ -30,7 +30,7 @@ Prevent brute force ssh password logins.
 ## debian 12
 ```
 $ sudo apt install fail2ban
-$ sudo systemctl restart fail2ban.server
+$ sudo systemctl restart fail2ban
 ```
  
  
