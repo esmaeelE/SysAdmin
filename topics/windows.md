@@ -16,3 +16,11 @@ When we need windows os use this method
 * install desired application
 * other configs
 * 
+
+
+# Configs
+## Programs
+
+- firefox
+- mobaexterm
+- notepad++
