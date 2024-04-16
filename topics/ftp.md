@@ -100,3 +100,8 @@ For example
         ChrootDirectory /root/backend/somedir/
 ```
 
+### fix
+```
+chown -R root:root path
+```
+
