@@ -21,7 +21,7 @@ $ ss -tulpen
 $ hostname -I 
 ```
 
-* Connect to RDP server with RDP client like Reminna.
+* Connect to RDP server with RDP client like Reminna. port 3389
 
 
 # Run a RDP server on Windows 11
