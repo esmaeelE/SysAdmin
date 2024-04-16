@@ -14,7 +14,6 @@ $ sudo tasksel install xfce-desktop
 * Install RDP server
 
 ```
-$ sudo systemctl status xrdp
 $ sudo apt install xrdp
 $ sudo systemctl status xrdp
 $ sudo adduser xrdp ssl-cert  
