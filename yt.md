@@ -2,7 +2,9 @@
 
 ## New technologies
 * [IBM](https://www.youtube.com/@IBMTechnology)
+  One of best resources to get started new technology.
 
+  
 ## LPIC
 
 * [fast LPIC review](https://www.youtube.com/@theurbanpenguin/playlists)
