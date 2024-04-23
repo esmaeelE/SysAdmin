@@ -8,6 +8,10 @@
 ## LPIC
 
 * [fast LPIC review](https://www.youtube.com/@theurbanpenguin/playlists)
+* [LinuxTV](https://www.youtube.com/@LearnLinuxTV)
+* [DT](https://youtube.com/DistroTube)
+https://distro.tube/
+* 
 
 ## Monitoring
 
