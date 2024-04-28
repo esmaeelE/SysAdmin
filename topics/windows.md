@@ -24,3 +24,9 @@ When we need windows os use this method
 - firefox
 - mobaexterm
 - notepad++
+
+## Install wsl
+Install windows 11 lite
+microsoft store get latest version of ubuntu 24.04 LTS, open
+set user, password
+
