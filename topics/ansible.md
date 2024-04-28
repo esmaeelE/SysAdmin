@@ -1,5 +1,5 @@
 # ansible
-System management automation with config manager application Ansible
+System management **Automation** with config manager application Ansible
 
 * GUI: Semaphore
 
