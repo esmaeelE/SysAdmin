@@ -3,7 +3,9 @@ System management **Automation** with config manager application Ansible
 
 * GUI: Semaphore
 
-Consider ansible instll in manage-node machine.
+* All communication between local and remote are handled though ssh. So make sure you can ssh into your remote server from where you are.
+
+* Consider ansible install in manage-node machine.
 That machine access to another remote machines(Nodes)
 Ansible system can connect and run some task on them.
 I use a newly installed Debian stable 12 as managed node.
@@ -11,7 +13,8 @@ I use a newly installed Debian stable 12 as managed node.
 ## Ansible fast tutorial
 
 * [source](https://itomation.ca/ansible-for-beginners-tutorial-part-3-hello-world-playbook/)
-
+* [gist](https://gist.github.com/todgru/20064c02226091ae227746631da5622a)
+* 
 
 ## Install 
 ```
