@@ -105,3 +105,10 @@ For example
 chown -R root:root path
 ```
 
+## Download from ftpserver
+
+* ncftp
+* aria2c
+* wget
+* uget
+* 
