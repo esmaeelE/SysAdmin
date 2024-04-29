@@ -25,8 +25,13 @@ When we need windows os use this method
 - mobaexterm
 - notepad++
 
-## Install wsl
-Install windows 11 lite
-microsoft store get latest version of ubuntu 24.04 LTS, open
-set user, password
+## Install wsl, make development environment
+
+* Install windows 11 lite
+* microsoft store get latest version of ubuntu 24.04 LTS, vscode
+* set user, password
+* install Mobaexterm
+* vscode, Mobaexter connect to wsl
+* create ssh keypair, copy to remote hosts
+* 
 
