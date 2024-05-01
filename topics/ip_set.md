@@ -91,6 +91,10 @@ sock.sendto(MESSAGE, (UDP_IP, UDP_PORT))
 
 ```
 
+Ubuntu use netplan for IP config, and have some issue.
+Use `nmtui` instead.
+
+
 
 * [Ubuntu netplan](https://ostechnix.com/configure-static-ip-address-ubuntu/)
 
