@@ -13,4 +13,4 @@
 * backup configs .vimrc, tmux.conf, bash_aliases
 * deploy configs and programs, initialize new created system with ansible.
 * monitor services and servers health.
-* 
+* docker monitor, log management
