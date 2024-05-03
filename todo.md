@@ -5,8 +5,7 @@
 * set facl
 * set cap
 * inode
-* KVM use
-* KVM full management
+* KVM usage and management
 
 ## How to
 * backup and store .ssh/config from manage server
