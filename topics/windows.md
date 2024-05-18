@@ -2,7 +2,7 @@
 
 When we need windows os use this method
 
-* Install windows 11 lite
+* Install windows 11 lite (Windows 11 Enterprise LTSC)
 * Disable intenet
 * Remote blot/sharewares
 * Disable update and definder
