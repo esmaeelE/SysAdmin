@@ -55,3 +55,43 @@ curl http://localhost:80
 ```
 
 
+
+
+# Nginx
+
+
+## nginx file server
+
+```
+cat /etc/nginx/nginx.conf 
+user www-data;
+worker_processes auto;
+pid /run/nginx.pid;
+error_log /var/log/nginx/error.log;
+include /etc/nginx/modules-enabled/*.conf;
+
+events {
+	worker_connections 768;
+	# multi_accept on;
+}
+
+http {
+	server {
+	  listen *:9999;
+	  server_name 127.0.0.1;
+	
+	  root /var/db/backup_dir;
+	  autoindex on;
+	}
+}
+```
+Reload setting
+
+```
+sudo nginx -T
+sudo systemctl restart nginx.service
+```
+
+Now file server will server on **IP:9999**
+
+
