@@ -24,3 +24,10 @@
 
 ## Edit
 * vim
+
+## New tools
+* btop
+* batcat
+* 
+
+
