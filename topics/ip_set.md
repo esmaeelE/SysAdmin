@@ -91,10 +91,10 @@ sock.sendto(MESSAGE, (UDP_IP, UDP_PORT))
 
 ```
 
+#Ubuntu
+
 Ubuntu use netplan for IP config, and have some issue.
 Use `nmtui` instead.
-
-
 
 * [Ubuntu netplan](https://ostechnix.com/configure-static-ip-address-ubuntu/)
 
@@ -105,9 +105,21 @@ network:
   ethernets:
     ens18:
       dhcp4: no
-      addresses: 
+      addresses:
         - 192.168.1.22/24
-      gateway4: 192.168.1.101
+        - 192.168.1.23/24
+        - 192.168.1.24/24
+      routes:
+        - to: default
+          via: 192.168.1.101
       nameservers:
-        addresses: [8.8.8.8, 8.8.4.4]
+          addresses: [8.8.8.8, 8.8.4.4]
 ```
+
+```
+$ sudo netplan try
+$ sudo netplan apply
+$ sudo reboot
+```
+
+
