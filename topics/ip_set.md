@@ -98,4 +98,16 @@ Use `nmtui` instead.
 
 * [Ubuntu netplan](https://ostechnix.com/configure-static-ip-address-ubuntu/)
 
-
+```
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    ens18:
+      dhcp4: no
+      addresses: 
+        - 192.168.1.22/24
+      gateway4: 192.168.1.101
+      nameservers:
+        addresses: [8.8.8.8, 8.8.4.4]
+```
