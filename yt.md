@@ -48,7 +48,4 @@ https://distro.tube/
 ## Peoples
 
 * [systemcrafter, emacs](https://www.youtube.com/channel/UCAiiOTio8Yu69c3XnR7nQBQ)
-* https://norasandler.com/
-* http://thelittleengineerthatcould.blogspot.com/
-* https://yt.artemislena.eu/channel/UCS0N5baNlQWJCUrhCEo8WlA
-* 
+
