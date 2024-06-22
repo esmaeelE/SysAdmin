@@ -3,7 +3,7 @@
 ## New technologies
 * [IBM](https://www.youtube.com/@IBMTechnology)
   One of best resources to get started new technology.
-
+* [systemcrafter, emacs](https://www.youtube.com/channel/UCAiiOTio8Yu69c3XnR7nQBQ)
   
 ## LPIC
 
