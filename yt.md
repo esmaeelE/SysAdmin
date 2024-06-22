@@ -10,12 +10,10 @@
 * [LinuxTV](https://www.youtube.com/@LearnLinuxTV)
 * [DT](https://youtube.com/DistroTube)
 https://distro.tube/
-* 
 
 ## Monitoring
 
 * https://www.youtube.com/@TechTutorialsDavidMcKone/featured
-
 * [Vim](https://www.youtube.com/@ThePrimeagen/featured)
 * [NetworkChuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
 * [rwxrob](https://www.youtube.com/channel/UCs2Kaw3Soa63cJq3H0VA7og)
@@ -25,7 +23,6 @@ https://distro.tube/
 
 * [Computerphile, Interview, hobby](https://www.youtube.com/@Computerphile)
 * [Lexfridman, Interview](https://www.youtube.com/@lexfridman)
-* 
 
 ## Programming
 
@@ -34,7 +31,6 @@ https://distro.tube/
 * [Advance topics](https://www.youtube.com/@ChrisKanich/)
 * [Programming ](https://www.youtube.com/@derekbanas)
 * [Rust vids](https://www.youtube.com/@letsgetrusty)
-* 
 
 ## Courses
 
