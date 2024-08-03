@@ -15,8 +15,9 @@ Using mirror instead of default docker registry
             "registry-mirrors": ["https://registry.docker.ir"]
     }
     
-    systemctl daemon-reload
-    systemctl restart docker
+    sudo systemctl daemon-reload
+    sudo systemctl restart docker
+    
         
 If its not work use proxy for docker 
 
