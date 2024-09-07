@@ -61,3 +61,7 @@ New-NetFirewallRule -DisplayName 'RDPPORTLatest-TCP-In' -Profile 'Public' -Direc
 # pause
 
 ```
+
+Sometimes windows firewall active on specific profile. So RDP not connect. Go to windows firewall and activate inbound roules for all profiles. Domain, ...
+
+
