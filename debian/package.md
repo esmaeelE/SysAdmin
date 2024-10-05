@@ -3,5 +3,17 @@
 cal
 install: ncal
 
-netstats
-net-tools
+## netstats 
+package: net-tools
+
+```
+apt install net-tools
+```
+
+## dig
+
+## ping
+```
+inetutils-ping
+iputils-ping
+```
