@@ -39,6 +39,9 @@ https://distro.tube/
 ## Mis
 
 * [fast](https://www.youtube.com/@Fireship)
+* https://www.youtube.com/@BranchEducation
+* https://www.youtube.com/@SabinCivil
+* https://www.youtube.com/@networkingwithh4716/playlists
 
 
 ## Peoples
