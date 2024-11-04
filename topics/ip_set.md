@@ -91,7 +91,7 @@ sock.sendto(MESSAGE, (UDP_IP, UDP_PORT))
 
 ```
 
-#Ubuntu
+# Ubuntu
 
 Ubuntu use netplan for IP config, and have some issue.
 Use `nmtui` instead.
@@ -116,10 +116,23 @@ network:
           addresses: [8.8.8.8, 8.8.4.4]
 ```
 
+Ubuntu netplan
 ```
 $ sudo netplan try
 $ sudo netplan apply
 $ sudo reboot
 ```
 
+# IP command 
 
+Delete route and new one
+
+```
+ip -4 route flush label "enp*"
+ip a add 192.168.10.7/24 dev enp4s0
+```
+
+```
+ip route del default
+ip r add 192.168.1.0/24 dev ep4s0
+```
