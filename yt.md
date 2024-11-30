@@ -31,7 +31,8 @@ https://distro.tube/
 * [Advance topics](https://www.youtube.com/@ChrisKanich/)
 * [Programming ](https://www.youtube.com/@derekbanas)
 * [Rust vids](https://www.youtube.com/@letsgetrusty)
-
+* [python](https://www.youtube.com/@ArjanCodes)
+* 
 ## Courses
 
 * [MIT](https://www.youtube.com/@mitocw)
