@@ -12,6 +12,8 @@ But the middle server must access to both sides.
 
 ## rsync, scp replacement
 
+Rsync tutorial
+
 scp depricates, so we must use rsync for this task.
 But rsync not support remote to remote transmission.
 
