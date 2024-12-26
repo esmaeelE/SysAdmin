@@ -1,5 +1,7 @@
 # LVM
 
+* Complete version moved to [LVM in Ubuntu ir wiki](https://wiki.ubuntu-ir.org/wiki/LVM)
+
 ## How to increase disk space with lvm
 
 1. Add a new disk like ```/dev/sdb``` or create a partiotion on an unallocated space. like ```/dev/sda3```
