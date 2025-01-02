@@ -1,4 +1,10 @@
 # First steps after connect to Server
+## General 
+* Find its IP: `hostname -I`
+* Check disk storage capacity: `lsblk -f`
+* connected user: `w`
+* 
+
 
 ## If server become slow
 
