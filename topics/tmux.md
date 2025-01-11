@@ -43,4 +43,12 @@ tmux a -t session_name/number
 Prefix t : time
 ```
 
+## goto pane/window
 
+`mark: prefix + m`
+we can use only -t switch to move current pane/window
+
+```
+swap-window -s 3 -t 1
+swap-pane -s 3 -t 1
+```
