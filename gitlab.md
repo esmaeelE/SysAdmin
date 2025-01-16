@@ -49,3 +49,13 @@ run: sidekiq: (pid 23084) 2287s; run: log: (pid 23148) 2285s
 ```
 
 
+
+## Access to gitlab with token
+
+```
+git config --global credential.helper store
+git config --list
+generate, copy and save personal accesst token
+```
+
+
