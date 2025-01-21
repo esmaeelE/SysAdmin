@@ -18,7 +18,16 @@ Using mirror instead of default docker registry
     sudo systemctl daemon-reload
     sudo systemctl restart docker
     
-        
+
+## Write directly to config file
+```
+cat << EOF | sudo tee /etc/docker/daemon.json 
+{
+    "registry-mirrors": ["https://registry.docker.ir"]
+}
+EOF
+```
+
 If its not work use proxy for docker 
 
 ## Set proxy
