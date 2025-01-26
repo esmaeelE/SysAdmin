@@ -15,7 +15,25 @@ When we need windows os use this method
 * run ansible to destination
 * install desired application
 * other configs
-* 
+
+# Time
+
+As Microshaft windows allways make troubles to users and especially system administrators.
+We must implement a way to force windows time stop and don't sync with any ntp servers.
+
+command prompt
+
+```tzutil /s "UTC"```
+
+Show
+
+```time /t```
+
+Set
+
+```time 10:20```
+
+Also turn off any online and automatic method and time shifting set it to UTC
 
 
 # Configs
