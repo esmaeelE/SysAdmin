@@ -3,8 +3,6 @@
 * Find its IP: `hostname -I`
 * Check disk storage capacity: `lsblk -f`
 * connected user: `w`
-* 
-
 
 ## If server become slow
 
@@ -24,8 +22,6 @@ top
 uname -a, -m
 uptime, load average 1, 5, and 15 minutes
 ```
-
-
 
 ## Sources
 * [MortezaBashsiz youtube videos](https://github.com/MortezaBashsiz)
