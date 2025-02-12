@@ -1,29 +1,32 @@
 # Daily tools for a SysAdmin
 
 ## Status
-* htop/iotop
-* ss
+* `htop/iotop`
+* gpu: `nvtop`
+* `ss`
 
 ## Search
-* grep
-* find
-* wc
+* `grep`
+* `find`
+* `wc`
 
 ## Storage
-* du
-* df
-* lsblk
+* `du`
+* `df`
+* `lsblk`
 
 ## User
-* whoami
-* usermod
-* w
+* `whoami`
+* `usermod`
+* `w`
 
 ## terminal
-* tmux
+* `tmux`
 
 ## Edit
-* vim
+* `vim`
+* `ed`
+* 
 
 ## New tools
 * btop
