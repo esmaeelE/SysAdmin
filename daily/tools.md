@@ -29,8 +29,8 @@
 * 
 
 ## New tools
-* btop
-* batcat
+* `btop`
+* `batcat`
 * 
 
 
