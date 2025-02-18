@@ -18,9 +18,10 @@ $ apt install sysstat
 
 * Other commands
 ```
-top
+top, htop, atop
 uname -a, -m
 uptime, load average 1, 5, and 15 minutes
+s-tui, stress-ng, stress
 ```
 
 ## Sources
