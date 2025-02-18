@@ -21,8 +21,14 @@ $ apt install sysstat
 top, htop, atop
 uname -a, -m
 uptime, load average 1, 5, and 15 minutes
+iotop
+GPU: nvtop
 s-tui, stress-ng, stress
 ```
+
+## Network
+- iftop
+- 
 
 ## Sources
 * [MortezaBashsiz youtube videos](https://github.com/MortezaBashsiz)
