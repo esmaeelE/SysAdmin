@@ -71,3 +71,10 @@ https://stackoverflow.com/questions/24058544/speed-up-rsync-with-simultaneous-co
 
 Python simple ftp server provides resume download but http server not.
 
+we cant copy file if both side are remote.
+
+change port 
+```
+-e 'ssh -p 2222'
+```
+
