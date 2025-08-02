@@ -12,10 +12,6 @@
 * https://www.rootusers.com/
 * https://www.server-world.info
 
-
-
-
 ## Mis.
 
 * [Terminals, shells and ssh](https://j11g.com/2023/01/14/i-dont-understand-terminals-shells-and-ssh/)
-* 
